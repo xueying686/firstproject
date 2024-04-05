@@ -1,0 +1,61 @@
+body {
+  background-image: url:("médias/background.jpg");
+  padding: 0px;
+  margin: 0px;
+  background-size: cover;}
+
+
+h1 {color : purple; 
+  width: 50%;
+  text-align: center;
+  border:0px;
+  padding: 10px 0px 0px 0px;
+  margin: 0px; 
+     
+}
+
+header{
+width: 100%;
+background-color: rgb(106, 88, 107);
+margin: 0px auto;
+display: block;
+justify-content: space-between;
+border: 0px;
+opacity: 0.5
+}
+
+#logo {
+  border-radius: 50%;
+  margin: 10px;
+  width: 80px;
+ 
+  margin: 10px 0px 0px 0px;
+  float:left;
+  }
+ 
+        .boite1 {
+        
+       
+      }  
+  p{
+      color: blueviolet;
+      margin-top: 18px 16px;
+      font-size: 1.8em;
+      font-family: Arial, Helvetica, sans-serif;
+      }
+
+#mizuleft {
+  color: darkmagenta;
+  border-radius: 8px;
+  display : flex; 
+  float: left;
+  padding: 15px;
+
+  }
+
+a{color: blueviolet;
+font-size: 0.8em;
+text-decoration: underline;}
+
+ 
+    
